@@ -5,7 +5,7 @@ Language : Java 8
 
 IDE : Ecplise
 
-Buile : Maven
+Builder : Maven
 
 Frame : struts2+hibernate
 
